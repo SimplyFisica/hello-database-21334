@@ -1,5 +1,3 @@
-// user.js
-
 // usamos express
 const express = require('express');
 
