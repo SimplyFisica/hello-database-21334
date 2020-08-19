@@ -19,7 +19,7 @@ const router = require('./routes/api/user');
 const port = process.env.PORT        || 3000;
 const db   = process.env.MONGODB_URI || 'mongodb://localhost/hellodb';
 
-const app = express();
+
 
 // conexion a la base de datos
 mongoose.set('useUnifiedTopology', true);
