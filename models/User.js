@@ -1,5 +1,3 @@
-// User.js
-
 // necesitamos importar mongoose
 const mongoose = require('mongoose');
 
